@@ -85,7 +85,7 @@ cargo run --release
 ## License
 This project is for educational purposes.
 
-Previous Project: [ESP32 Ultrasonic Range Finder](https://github.com/Inhle-C/Project-6-esp32-lab6-ultrasonic-sensor)  
+Previous Project: [ESP32 Ultrasonic Range Finder](https://github.com/Inhle-C/Project-6-esp32-ultrasonic-sensor)  
 (Part 6 of the series)
 
 This is the final part of my IoT Lab Series 🚀
